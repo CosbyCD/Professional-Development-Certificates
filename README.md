@@ -15,6 +15,7 @@ Certificates earned through reputable platforms documenting continued learning i
 | **Thinkful** | Data Analyst Certificate |
 | **Coursera** | R Programming Certificate |
 | **Salesforce Trailhead** | 14 Badges — Data Analytics, Tableau, Salesforce Platform |
+| **HackerRank** | SQL |
 | **LinkedIn** | Additional professional development coursework |
 
 ---
