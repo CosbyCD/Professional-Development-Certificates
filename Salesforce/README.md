@@ -8,6 +8,7 @@
 
 | Badge | Type | Points |
 |---|---|---|
+| Fundamentals of Maps | Module | +400 points |
 | User Management | Module | +1,000 |
 | Virtual Collaboration | Module | +300 |
 | Best Practices for Working from Home | Module | +300 |
@@ -25,7 +26,7 @@
 
 ---
 
-## Total Badges: 14
-## Total Points: 9,500
+## Total Badges: 15
+## Total Points: 9,850
 
 *Last updated: June 2026*
